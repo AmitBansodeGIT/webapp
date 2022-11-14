@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Maven Practical Amit Bansode</title>
+    <title>Webhook Practical Amit Bansode</title>
 
 
     <!-- Custom styles for this template -->
