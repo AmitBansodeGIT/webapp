@@ -62,7 +62,7 @@
     <div class="row">
         <div class="col-md-4">
             <h2>What is GIT</h2>
-            <p>Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. </p>
+            <p>Git is free and Open Source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
