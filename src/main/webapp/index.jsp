@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello Velocity </h1>
+        <h1>Version 2 </h1>
         <p>This is Amit Bansode from 2 July DevOps batch . </p>
         <p><a class="btn btn-primary btn-lg" role="button" href="http://script.amitbansode.click">My Scripts &raquo;</a></p>
     </div>
